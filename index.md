@@ -9,8 +9,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Team Memebrs 
+## ARIF ISLAM
+## CHAD CAMPBELL
+## CHRISTIAN MERRIKIN
+
+
 ### Header 3
 
 - Bulleted
