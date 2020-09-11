@@ -7,7 +7,6 @@ We are in the process of designing a robot to retrieve intel servers.
 ### CHAD CAMPBELL
 ### CHRISTIAN MERRIKIN
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
