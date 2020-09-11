@@ -2,7 +2,10 @@
 
 We are in the process of designing a robot to retrieve intel servers.
 
-### Markdown
+## Team Members 
+### ARIF ISLAM
+### CHAD CAMPBELL
+### CHRISTIAN MERRIKIN
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
