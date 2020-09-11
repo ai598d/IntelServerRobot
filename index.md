@@ -5,9 +5,13 @@
 #### We are working on designing a robot for Intel servers
 
 ## Team Members 
-### ARIF ISLAM
-### CHAD CAMPBELL
-### CHRISTIAN MERRIKIN
+
+#### ARIF ISLAM
+Mechatronics and Control
+#### CHAD CAMPBELL
+Machine Design and Structure
+#### CHRISTIAN MERRIKIN
+Market Analysis, Stress analysis and Design  
 
 
 ```markdown
@@ -15,11 +19,11 @@ Syntax highlighted code block
 
 # Team Members 
 
-## ARIF ISLAM (Mechatronics and Control)
+## ARIF ISLAM 
 
-## CHAD CAMPBELL (Machine Design and Structure)
+## CHAD CAMPBELL
 
-## CHRISTIAN MERRIKIN (Market Analysis, Stress analysis and Design)    
+## CHRISTIAN MERRIKIN   
 
 
 ### Header 3
