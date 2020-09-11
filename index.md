@@ -1,7 +1,8 @@
-# Welcome to the Intel Server Robot Design Porject of Team Proto
+# Welcome to the World of Team Proto
 
 <img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true"/>
 
+#### We are working on designing a robot for Intel servers
 
 ## Team Members 
 ### ARIF ISLAM
