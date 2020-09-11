@@ -1,12 +1,13 @@
-## Welcome to the Design Porject of Team Proto
+# Welcome to the Intel Server Robot Design Porject of Team Proto
 
-We are in the process of designing a robot to retrieve intel servers.
+<img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true"/>
+
 
 ## Team Members 
 ### ARIF ISLAM
 ### CHAD CAMPBELL
 ### CHRISTIAN MERRIKIN
-<img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true"/>
+
 
 ```markdown
 Syntax highlighted code block
