@@ -7,7 +7,7 @@ We are in the process of designing a robot to retrieve intel servers.
 ### CHAD CAMPBELL
 ### CHRISTIAN MERRIKIN
 
-
+[Image](https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true)
 ```markdown
 Syntax highlighted code block
 
