@@ -2,7 +2,8 @@
 
 <img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true"/>
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"> 
+</iframe>
 
 #### We are working on designing a robot for Intel servers
 
