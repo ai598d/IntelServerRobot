@@ -5,9 +5,8 @@
 <html>
 <body>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" type="video/mp4">
-  </video>
+
+<iframe src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" height="200" width="300" title="Iframe Example"></iframe>
 
 </body>
 </html>
