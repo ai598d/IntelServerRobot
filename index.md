@@ -6,7 +6,7 @@
 <body>
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1JuEUGZOIv14Md_kWvNzbjsyLNydX5few/view?usp=sharing" type="video/mp4">
+  <source src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" type="video/mp4">
   </video>
 
 </body>
