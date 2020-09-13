@@ -5,8 +5,8 @@
 <html>
 <body>
 
+<video src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" width="320" height="200" controls preload></video>
 
-<iframe src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" height="200" width="300" title="Iframe Example"></iframe>
 
 </body>
 </html>
