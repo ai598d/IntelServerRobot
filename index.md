@@ -30,7 +30,7 @@ Market Analysis, Stress analysis and Design
 
 
 
-# [Design Phase](Dsign_Phase.md)
+# [Design Phase](Design_Phase.md)
 
 # [Prototype Phase](Prototype_Phase.md)
 
