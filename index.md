@@ -6,13 +6,10 @@
 <body>
 
 
-<iframe width="420" height="315"
-src="https://youtu.be/embed/j_uQvgpwaA8">
-</iframe>
 
 
 <iframe id="player" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1&origin=http://example.com"
+  src="http://www.youtube.com/embed/j_uQvgpwaA8"
   frameborder="0"></iframe>
   
 </body>
