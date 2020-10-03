@@ -32,7 +32,7 @@ Market Analysis, Stress analysis and Design
 
 # [Design Phase](Design_Phase.md)
 
-# [Prototype Phase](Prototype_Phase.md)
+# [Prototype Phase](Prototype Phase.md)
 
 ```markdown
 ```
