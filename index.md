@@ -5,7 +5,7 @@
 <html>
 <body>
 
-<video src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/GeoGebraBOTOTO.mp4" width="320" height="200" controls preload></video>
+<video src="https://youtu.be/j_uQvgpwaA8 width="320" height="200" controls preload></video>
 
 
 </body>
