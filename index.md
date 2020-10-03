@@ -9,7 +9,7 @@
 
 
 <iframe id="player" type="text/html" width="500" height="390"
-  src="https://www.youtube.com/embed?v=j_uQvgpwaA8
+  src="https://www.youtube.com/embed/?v=j_uQvgpwaA8
   frameborder="0"></iframe>
   
 </body>
