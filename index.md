@@ -8,7 +8,7 @@
 
 
 
-<iframe id="player" type="text/html" width="590" height="390"
+<iframe id="player" type="text/html" width="400" height="390"
   src="https://www.youtube.com/embed/v=j_uQvgpwaA8"
   frameborder="0"></iframe>
   
