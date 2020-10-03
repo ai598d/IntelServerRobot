@@ -28,6 +28,12 @@ Machine Design and Structure
 Market Analysis, Stress analysis and Design  
 
 
+
+
+# Design Phase
+
+# Prototype Phase
+
 ```markdown
 ```
 
