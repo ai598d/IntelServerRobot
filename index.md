@@ -5,9 +5,8 @@
 <html>
 <body>
 
-<video src="https://youtu.be/j_uQvgpwaA8" width="320" height="200" controls preload></video>
 
-
+<iframe width="560" height="315" src="https://youtu.be/j_uQvgpwaA8{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
 </html>
 
