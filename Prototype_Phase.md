@@ -19,5 +19,11 @@
 <br>
 <br>
 
-## A very first glimpse of assembly
+## A very first glimpse of assembly.
 <img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/Assembly.png?raw=true"  width="300" height="250" />
+
+<br>
+<br>
+## Some testing with Sensor and Motor.
+
+<iframe width="1280" height="753" src="https://www.youtube.com/embed/UdskE1MlpOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
