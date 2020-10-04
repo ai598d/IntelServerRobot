@@ -25,4 +25,4 @@
 <br>
 <br>
 ## Some testing with Sensor and Motor.
-<iframe width="1280" height="753" src="https://www.youtube.com/embed/UdskE1MlpOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="375" src="https://www.youtube.com/embed/UdskE1MlpOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
