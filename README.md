@@ -8,5 +8,5 @@ to add somthing edit index.md file
 For regular text just type without hashtags.
 To add image the code is
 ```
-<img src= "paste the link/source of image" > 
+<img src= "paste the link/source of image?raw=true" > 
 ```
