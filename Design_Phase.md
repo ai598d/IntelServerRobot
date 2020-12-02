@@ -7,6 +7,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xCCI3dxHi0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## [Full Design Phase Report](https://drive.google.com/file/d/1Bjnp4-YEf6MuWa4ykdzpIN8_fTJtX8rc/view?usp=sharing)
+
 ## A Simulink Block Diagram Simulation of Electro-mechanical system 
 <br>
 
@@ -15,4 +17,4 @@
 
 ## Initial Code testing on a Gazebo Simulator
 
-## [Report](https://docs.google.com/document/d/1H7VRC1UsmgLUDhtnoYgcnIq_Gycz1tCnRaHi_NhIyQ4/edit?usp=sharing)
+
