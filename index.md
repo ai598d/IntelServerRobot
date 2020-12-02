@@ -8,9 +8,7 @@
 
 
 
-<iframe id="player" type="text/html" width="500" height="390"
-  src="https://www.youtube.com/watch?v=goZQjbryAYQ&ab_channel=TeamProto">
-  frameborder="0"></iframe>
+
   
   
   <iframe width="500" height="390" src="https://www.youtube.com/embed/goZQjbryAYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
