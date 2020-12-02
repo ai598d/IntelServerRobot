@@ -19,16 +19,16 @@
 </html>
 
 
-#### We are working on designing a robot for Intel servers
+#### We have designed a ROS based Robot prototype
 
 ## Team Members 
 
 #### ARIF ISLAM
-Mechatronics and Control
+Mehcatronics system and control
 #### CHAD CAMPBELL
-Machine Design and Structure
+Team Manager, design, analysis, & manufacturing
 #### CHRISTIAN MERRIKIN
-Market Analysis, Stress analysis and Design  
+Design, analysis, production & finance  
 
 
 
