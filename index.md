@@ -1,6 +1,6 @@
 ## Welcome to the World of Team Proto
 \
-\
+
 #### A Rapid ROS based Robot Prototype
 <img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/robot_image.png?raw=true"/>
 
