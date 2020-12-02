@@ -37,6 +37,8 @@ Design, analysis, production & finance
 
 # [Prototype Phase](Prototype_Phase.md)
 
+# [Picture Gallery](https://drive.google.com/drive/folders/1iOAjVdOsXc3Ab3ZnuVeiJWugCpgcJbHn?usp=sharing)
+
 # [Code Repository](https://github.com/ai598d/Arduino.git)
 ```markdown
 ```
