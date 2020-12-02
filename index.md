@@ -24,7 +24,7 @@
 ## Team Members 
 
 #### ARIF ISLAM
-Mehcatronics system and control
+Mechatronics system and control
 #### CHAD CAMPBELL
 Team Manager, design, analysis, & manufacturing
 #### CHRISTIAN MERRIKIN
