@@ -1,6 +1,8 @@
 # Welcome to the World of Team Proto
 
-<img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/ISR_Final_CAD.png?raw=true"/>
+<img src="https://github.com/ai598d/IntelServerRobot/blob/gh-pages/robot_image.png?raw=true"/>
+
+
 
 <html>
 <body>
